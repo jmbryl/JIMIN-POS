@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EnterprisePOS.Data/EnterprisePOS.Data.csproj" Id="19778f91-7098-449d-a42b-bc20249d18fa" />
+  <Project Path="EnterprisePOS.Domain/EnterprisePOS.Domain.csproj" Id="f8689503-b2fe-4cc1-ac2e-4f5e68fa29dc" />
+  <Project Path="EnterprisePOS.Services/EnterprisePOS.Services.csproj" Id="4d0a930f-5081-4344-aba0-719c42b5b1fd" />
+  <Project Path="EnterprisePOS.WinForms/EnterprisePOS.WinForms.csproj" Id="f39bd420-6080-4616-b53a-ef173351d587" />
+</Solution>
